@@ -78,6 +78,5 @@ printf("Following is the safe sequence:");
 for(i=0;i<n;i++)
 {
     printf("p%d\t",safeseq[i]);
-}
-    
+}   
 }
