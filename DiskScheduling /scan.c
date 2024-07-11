@@ -47,7 +47,7 @@ if(move==1)
    }
   else
    {
-    tothead=initial-rq[0];
+    tothead=rq[n-1]-initial;
    }
  }
 if(move==0)
